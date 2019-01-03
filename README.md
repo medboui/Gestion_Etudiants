@@ -30,7 +30,7 @@
  
  ### ###
 or if you prefer Eclipse you can easily run the api by clicking on the project then choose Run as Spring boot App.
- AND CHECK THE URL http://localhost:8080/ in your favorite Browser.
+ AND CHECK THE URL http://localhost:8089/Etudiant/Index in your favorite Browser.
  
  
 ## Built With
